@@ -1,15 +1,23 @@
-# React Boilerplate
+# Great Walks in NZ 
 
-## Packages Included
+## About ℹ️
 
-- react
-- react-router-dom
-- express
-- vite
-- vitest
-- eslint
+This is my very first project built with a group. The application provides a brief introduction to the Great Walks in New Zealand. While it may not be fancy, it is one of the projects I am truly passionate about and had a lot of fun creating. I am still very proud of this application.
 
-## Setup
+## Group Members 👥
+
+- Bihui
+- Hami
+- Jacob
+- Nathan
+
+## Tech Used 💻
+
+* TypeScript
+* React.js
+* React Router
+
+## Setup ⚙️
 
 - [ ] Clone this repo, navigate to it, install packages, and start the server with `npm run dev`
   <details style="padding-left: 2em">

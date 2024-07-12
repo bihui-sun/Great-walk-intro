@@ -8,9 +8,7 @@ function SouthIsland() {
       <ul>
         {data.map((walk) => (
           <li key={walk.code}>
-            <Link to={`/Great-walk-intro/southisland/${walk.code}`}>
-              {walk.name}
-            </Link>
+            <Link to={`/southisland/${walk.code}`}>{walk.name}</Link>
           </li>
         ))}
       </ul>

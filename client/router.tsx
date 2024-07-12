@@ -15,11 +15,25 @@ const router = createBrowserRouter(
   createRoutesFromElements([
     <Route path="/Great-walk-intro/" element={<App />}>
       <Route path="/Great-walk-intro/" element={<Home />}>
-        <Route path="northisland/" element={<NorthIsland />} />,
-        <Route path="southisland/" element={<SouthIsland />} />,
+        <Route
+          path="/Great-walk-intro/northisland/"
+          element={<NorthIsland />}
+        />
+        ,
+        <Route
+          path="/Great-walk-intro/southisland/"
+          element={<SouthIsland />}
+        />
+        ,
       </Route>
-      <Route path="northisland/:code" element={<NorthDetail />} />
-      <Route path="southisland/:code" element={<SouthDetail />} />
+      <Route
+        path="/Great-walk-intro/northisland/:code"
+        element={<NorthDetail />}
+      />
+      <Route
+        path="/Great-walk-intro/southisland/:code"
+        element={<SouthDetail />}
+      />
     </Route>,
   ])
 )

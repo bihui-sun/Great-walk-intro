@@ -6,7 +6,7 @@ export default [
     distance: '60km one way',
     duration: '3-5 days one way',
     difficultyRating: 'Intermediate',
-    desctiption:
+    description:
       'Blessed with a mild climate, golden beaches and lush coastal native bush, the Abel Tasman Coast Track has it all. Choose to hike the whole track, water taxi between different locations or kayak from Mārahau to campsites in the southern section of the track at any time of the year.',
   },
   {

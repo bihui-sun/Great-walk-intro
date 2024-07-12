@@ -13,8 +13,8 @@ import SouthDetail from './components/Southdetail.tsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements([
-    <Route path="/" element={<App />}>
-      <Route path="/" element={<Home />}>
+    <Route path="/Great-walk-intro/" element={<App />}>
+      <Route path="/Great-walk-intro/" element={<Home />}>
         <Route path="northisland/" element={<NorthIsland />} />,
         <Route path="southisland/" element={<SouthIsland />} />,
       </Route>

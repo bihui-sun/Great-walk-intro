@@ -2,6 +2,8 @@
 
 ## About ℹ️
 
+Link: https://bihui-sun.github.io/Great-walk-intro/
+
 This is my very first project built with a group. The application provides a brief introduction to the Great Walks in New Zealand. While it may not be fancy, it is one of the projects I am truly passionate about and had a lot of fun creating. I am still very proud of this application.
 
 ## Group Members 👥

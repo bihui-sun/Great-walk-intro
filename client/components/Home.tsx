@@ -15,10 +15,10 @@ function Home() {
         Zealand&apos;s breathtaking scenery.
       </p>
       <p>
-        <Link to="/northisland">North Island</Link>
+        <Link to="./northisland">North Island</Link>
       </p>
       <p>
-        <Link to="/southisland">South Island</Link>
+        <Link to="./southisland">South Island</Link>
       </p>
 
       <Outlet />
